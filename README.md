@@ -1,4 +1,4 @@
-# tutory
-a tutor and study guide maker i guess
+# verifiery
+using the ai to defeat the ai
 
 Hello, world!
